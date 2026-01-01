@@ -73,7 +73,7 @@ cd js-20-projetos/projeto-01-relogio-digital
 📨 Dúvidas ou ideias para novos projetos? Vamos trocar experiências!
 
 💼 **Saulo Prado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)
+🔗 [LinkedIn](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 
 ---
 
