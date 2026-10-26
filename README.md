@@ -1,81 +1,65 @@
-# 🧠 Curso de HTML5 & JavaScript – 20 Projetos Práticos
+<p align="center">
+<img src="assets/capa.png" alt="HTML5 & JavaScript" width="100%">
+</p>
 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<h1 align="center">HTML5 & JavaScript</h1>
+<p align="center"><i>Fundamentos de JavaScript na prática, página a página</i></p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/tipo-estudo-64748B?style=flat-square" alt="tipo: estudo">
+</p>
 
-## 📖 Descrição Geral
+## Sumário
 
-Este repositório reúne os **20 projetos desenvolvidos durante o curso de HTML5 e JavaScript**, com foco no aprendizado prático e criativo.  
-A proposta é dominar os fundamentos da linguagem JavaScript explorando interações reais em páginas HTML5.
+- [Sobre](#sobre)
+- [O que foi praticado](#o-que-foi-praticado)
+- [Como visualizar](#como-visualizar)
+- [Estrutura do repositório](#estrutura-do-repositório)
+- [Autor](#autor)
 
-Perfeito para quem está iniciando no desenvolvimento web ou deseja reforçar seus conhecimentos com aplicações diretas e visuais.
+## Sobre
 
----
+Exercícios do curso de **HTML5 e JavaScript**, com foco nos fundamentos da linguagem: cada página HTML demonstra um conceito, e o curso fecha com um desafio prático.
 
-## 📦 Estrutura do Projeto
+## O que foi praticado
+
+| Arquivo | Conceito |
+| --- | --- |
+| `variaveis.html` | Declaração e uso de variáveis |
+| `concatenacao.html` | Concatenação de textos e valores |
+| `prompt.html` | Entrada de dados com `prompt` |
+| `null_undefined.html` | Diferença entre `null` e `undefined` |
+| `desafio.html` | Desafio final do módulo (resposta em `Desafio/`) |
+| `js/scripts.js` | Script externo |
+
+## Como visualizar
+
+Clone o repositório e abra qualquer arquivo `.html` no navegador:
 
 ```bash
-📂 js-20-projetos
- ├── 📁 projeto-01-relogio-digital/
- ├── 📁 projeto-02-calculadora/
- ├── 📁 projeto-03-timer/
- ├── 📁 projeto-04-todolist/
- ├── 📁 projeto-05-galeria-imagens/
- ├── 📁 projeto-06-form-validador/
- ├── 📁 projeto-07-menu-mobile/
- ├── 📁 projeto-08-jogo-adivinhacao/
- ├── 📁 projeto-09-conversor-temperatura/
- ├── 📁 projeto-10-slider-imagens/
- └── 📁 ...até projeto-20/
+git clone https://github.com/sauloprado/Html5-Js-20-projetos.git
 ```
 
-Cada pasta contém um projeto funcional com HTML, CSS e JavaScript nativos.
+## Estrutura do repositório
 
----
-
-## ✨ Funcionalidades e Objetivos
-
-- 🧩 Aplicação prática dos principais conceitos do JavaScript moderno
-- 🎯 Projetos com foco em interatividade e manipulação do DOM
-- 💡 Exercícios voltados para criatividade, lógica e experiência do usuário
-- 🧱 Estrutura clara para facilitar reutilização e aprendizado modular
-
----
-
-## ▶️ Como Utilizar
-
-1. 📥 Clone este repositório em sua máquina:
-```bash
-git clone https://github.com/sauloprado/js-20-projetos.git
+```text
+Html5-Js-20-projetos/
+├── Desafio/resposta_do_desafio.pdf
+├── js/scripts.js
+├── index.html
+├── variaveis.html
+├── concatenacao.html
+├── prompt.html
+├── null_undefined.html
+├── desafio.html
+└── assets/capa.png
 ```
 
-2. 📂 Acesse qualquer um dos diretórios de projeto:
-```bash
-cd js-20-projetos/projeto-01-relogio-digital
-```
+## Autor
 
-3. 🌐 Abra o arquivo `index.html` no seu navegador para visualizar o projeto em funcionamento.
+**Saulo Prado** · Analista de Sistemas · Gestão de Ativos de TI, orçamento, automação e dashboards
 
----
-
-## 🛠 Requisitos Técnicos
-
-- Navegador atualizado (Chrome, Firefox, Edge, etc.)
-- Editor de código como **Visual Studio Code**
-- Conhecimentos básicos em HTML, CSS e JavaScript
-
----
-
-## 📬 Contato
-
-📨 Dúvidas ou ideias para novos projetos? Vamos trocar experiências!
-
-💼 **Saulo Prado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
-
----
-
-Feito com ☀️ criatividade, 💻 curiosidade e um pouquinho de café ☕.  
-A melhor forma de aprender JavaScript é colocando a mão no código! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo%20Prado-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
+[![GitHub](https://img.shields.io/badge/GitHub-sauloprado-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sauloprado)
